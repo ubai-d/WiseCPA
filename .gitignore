@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.log
+*.env
+.env
+.DS_Store
+
+# Virtual Environments
+venv/
+.venv/
+
+# Jupyter/IPython
+.ipynb_checkpoints/
+
+# OS
+*.swp
+Thumbs.db
+
+# Others
+*.csv
+*.xlsx
+*.pkl
+*.dylib
